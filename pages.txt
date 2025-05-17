@@ -8,8 +8,12 @@ i am going to add view catelog.
 its 11.53 am
 we are changing something here.
 hjhjjksh.
+<<<<<<< HEAD
 i am editing this
 this is a edited file
+=======
+hhhhhhhhh.
+>>>>>>> developer
 
 jhjhhfdhhdfh
 huhsuhushdush
